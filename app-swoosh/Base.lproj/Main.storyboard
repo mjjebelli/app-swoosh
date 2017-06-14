@@ -15,10 +15,10 @@
         </array>
     </customFonts>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -99,10 +99,10 @@
             </objects>
             <point key="canvasLocation" x="-866" y="-13"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="T6R-QI-T4p">
             <objects>
-                <viewController id="UL4-Ii-212" sceneMemberID="viewController">
+                <viewController id="UL4-Ii-212" customClass="LeagueVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="2uc-xa-7mp"/>
                         <viewControllerLayoutGuide type="bottom" id="9pR-Zy-zKT"/>
@@ -219,10 +219,10 @@
             </objects>
             <point key="canvasLocation" x="-39.200000000000003" y="-13.043478260869566"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="Bhh-ll-Cjh">
             <objects>
-                <viewController id="Og1-Sx-lgo" sceneMemberID="viewController">
+                <viewController id="Og1-Sx-lgo" customClass="SkillVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Jdx-8V-sBi"/>
                         <viewControllerLayoutGuide type="bottom" id="gOk-Pk-ZW5"/>
